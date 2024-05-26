@@ -1,0 +1,4 @@
+Reflection Probe: 9.597963, 12.24, 15.84
+Reflection Probe (1): 11.48, 12.24, 15.84
+Reflection Probe (2): -9.71, 12.24, 15.84
+Reflection Probe (3): 7.591, 12.24, 24.05
